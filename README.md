@@ -1,5 +1,11 @@
 # Implementation of filter
 
+## NAME: NITHISH R
+
+## REG NO: 212225230202
+
+## EXPERIMENT: IMPLEMENTATION OF FILTERS
+
 ## Aim
 
 To implement filters for smoothing and sharpening images in the spatial domain.
